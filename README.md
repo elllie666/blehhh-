@@ -1,3 +1,1 @@
-# blehhh
-
-print("hello world!")
+meme
